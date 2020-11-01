@@ -10,7 +10,7 @@ function switcher(clist, i) {
 	var hide_current = function() {
 		if(clist){
 			clist[i].style.visibility = "hidden";
-			i += 1;
+			i++;
 		}
 	}
 

@@ -7,4 +7,4 @@ This project is a simple costume customizer, where you can select your Halloween
 HTML, and CSS to create a website app.
 
 ## Snapshots:
-<a href="img/snapshot.png">
+<img src="img/snapshot.png">

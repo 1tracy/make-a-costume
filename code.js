@@ -31,7 +31,6 @@ function switcher(clist, i) {
   var pants = $(".pant");
   var shoe = $(".shoe");
 
-
   var hat_picker = new switcher(hat);
   document.getElementById("hat_button").onclick = function() {hat_picker.Next(); };
 
@@ -47,6 +46,7 @@ function switcher(clist, i) {
   var shoe_picker = new switcher(shoe);
   document.getElementById("shoe_button").onclick = function() {shoe_picker.Next(); };
 });
+
 
   $("#shirt_button").click(function(){
   $("#shirt-menu").css("visibility", "visible"); });

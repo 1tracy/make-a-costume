@@ -6,6 +6,8 @@ View our project at http://tracydong.com/halloween_costumes/main.html.
 This project is a simple costume customizer, where you can select your Halloween costume! Made for the Hack Or Treat? Halloween 2020 Hackathon. We used Javascript,
 HTML, and CSS to create the website, and the images were drawn by daiemly.
 
+Built with Javascript, CSS, HTML, Bootstrap, and JQuery.
+
 ## Snapshots:
 <img src="img/snapshot.png">
 

@@ -8,3 +8,7 @@ HTML, and CSS to create the website, and the images were drawn by daiemly.
 
 ## Snapshots:
 <img src="img/snapshot.png">
+
+## Contact:
+<a href="www.github.com/daiemly">Emily</a>
+<a href="www.github.com/1tracy">Tracy</a>

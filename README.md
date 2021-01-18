@@ -1,5 +1,5 @@
 # Costume Maker
-## Made by Tracy and Emily
+## Made by Tracy and <a href="www.github.com/daiemly">Emily</a>
 View our project <a href="https://murmuring-garden-98294.herokuapp.com/">here</a>!
 
 ## Description:
